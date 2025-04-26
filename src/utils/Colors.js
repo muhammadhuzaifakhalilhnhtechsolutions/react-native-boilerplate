@@ -1,4 +1,4 @@
-const THEME_COLOR = '#00386D';
+const THEME_COLOR = '#215A4E';
 const THEME_ORANGE = '#FB724C';
 const THEME_RED = '#FB5454';
 const WHITE = '#FFFFFF';
@@ -6,7 +6,7 @@ const BLACK = '#000000';
 const RED = '#FF0000';
 const BACKGROUND_COLOR = '#EFEDF4';
 const LIGHT_GRAY = '#F1F4FF';
-const GRAY = '#A1A1A1';
+const GRAY = '#727272';
 const DARK_GRAY = '#494949';
 const BOTTOM_GRAY = '#CBD5E1';
 const CATEGORY_BG = '#E1F5FA';
